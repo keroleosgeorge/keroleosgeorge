@@ -1,7 +1,7 @@
-@@ -1,29 +1,29 @@
+
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <h3 align="center">
-  Welcome to%20 Keroleos%20 George's profile!
+  Welcome to Keroleos George's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -17,7 +17,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![Flutter]([https://img.shields.io/badge/-JavaScript-05122A](https://img.shields.io/badge/-flutter-05122A)?style=flat&logo=javascript)&nbsp;
+![Flutter](https://img.shields.io/badge/-flutter-05122A)?style=flat&logo=javascript)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Api](https://img.shields.io/badge/-Api-05122A?style=flat&logo=react)
 ![Bloc](https://img.shields.io/badge/-Bloc-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
