@@ -21,8 +21,8 @@
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Api](https://img.shields.io/badge/-Api-05122A?style=flat&logo=react)
-![Bloc](https://img.shields.io/badge/-Bloc-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Api](https://img.shields.io/badge/-Api-05122A?style=flat&logo=Api)
+![Bloc](https://img.shields.io/badge/-Bloc-05122A?style=flat&logo=bloc.js&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
