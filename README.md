@@ -11,14 +11,21 @@
    </a>
 </p>
 
-- 🏢 I'm a Computer Science student at Ain Shams University and learning Flutter and mobile application development.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Dart and Flutter.
+---
 
-### Connect with Me:
+### 👨‍💻 About Me:
+- 🏢 I'm a **Computer Science** student at **Ain Shams University**, currently focusing on **Flutter** and mobile application development.
+- 🌱 I'm always eager to learn new technologies and enhance my skills in **Dart** and **Flutter**.
+- 💬 Feel free to ask me about my experience with **Dart** and **Flutter**.
+
+---
+
+### 🌐 Connect with Me:
 <a href="https://www.linkedin.com/in/kero-george-207b27261" target="_blank">
   <img src="https://img.shields.io/badge/-Keroleos%20George-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
+
+---
 
 ### 🛠 Tech Stack:
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
@@ -28,10 +35,18 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=flutterboy20&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=flutterboy20&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flutterboy20&theme=shades-of-purple&hide_border=false" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutterboy20&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Profile Visits:
 <a href="https://komarev.com/ghpvc/?username=keroleosgeorge&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=keroleosgeorge&style=for-the-badge">
 </a>
